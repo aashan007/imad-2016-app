@@ -43,7 +43,7 @@ var htmltemplate=`
 </html>
 
 `;
- return htmlTemplate;   
+ return htmltemplate;   
 }    
 
 
